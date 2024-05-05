@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WizardTower",
+			"Path": "../Source/WizardTower.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WizardTowerEditor",
+			"Path": "../Source/WizardTowerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
